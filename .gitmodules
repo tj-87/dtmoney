@@ -1,0 +1,3 @@
+[submodule "dtmoney"]
+	path = dtmoney
+	url = https://github.com/tj-87/dtmoney
